@@ -1,0 +1,36 @@
+body {
+  background-image: url("../images/train.jpeg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron {
+  margin: auto;
+  width: 60%;
+  text-align: center;
+
+}
+
+.title {
+  font-size: 80px;
+}
+
+.lead {
+  font-size: 24px;
+}
+
+.card {
+  margin: auto;
+  margin-top: 20px;
+  width: 60%;
+
+}
+
+.card-header {
+  background-color: #00008B;
+  color: #fff;
+  font-size: 18px;
+  font-weight: bold;
+  
+}
